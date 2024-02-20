@@ -55,7 +55,7 @@ Si prefieres ejecutar la aplicación en un contenedor Docker:
 ```bash
 curl http://localhost:8080/prices
 ```
-*Más información en la documentacion de los servicios en la url*
+**Más información en la documentacion de los servicios en la url**
 
 ```bash
 curl http://localhost:8080/swagger-ui/index.html#/
